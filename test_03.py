@@ -1,6 +1,7 @@
 # A Buzz number is a number that ends with 7 or is divisible by 7.
 # Write a function that takes a number as input and checks if it is a Buzz number.
-# The function should return 'Buzz' if the number is a Buzz number, otherwise it should return 'Not a Buzz number'.
+# The function should return 'Buzz' if the number is a Buzz number, 
+# otherwise it should return 'Not a Buzz number'.
 
 def isBuzz(n: int) -> str:
     # checks if last number is 7
